@@ -4,7 +4,7 @@ const phones = [
     { name: 'Oppo', price: 30000, camera: '12mp', color: 'black' },
     { name: 'Iphone', price: 100000, camera: '12mp', color: 'black' },
     { name: 'Walton', price: 31000, camera: '12mp', color: 'black' },
-    { name: 'HTC', price: 27000, camera: '12mp', color: 'black' },
+    { name: 'HTC', price: 27000, camera: '12mp', color: 'black' }
 ]
 
 
